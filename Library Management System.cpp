@@ -1,5 +1,3 @@
-// C++ code addition 
-
 #include <iostream>
 #include <string>
 
